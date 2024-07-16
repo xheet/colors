@@ -1,0 +1,29 @@
+/*
+xheet colors test file
+CDN template link : https://cdn.jsdelivr.net/gh/user/repo@version/file
+https://cdn.jsdelivr.net/gh/xheet/core@v2024.0.0.1-alpha/xheet.colors.tst.css
+*/
+
+/*
+Author : codebabel (xheet founder)
+Porject date : 12/11/2023 [dd/mm/yyyyy]
+Date : 16/07/2024         [dd/mm/yyyyy]
+version : v2024.0.0.0-alpha
+type : test file
+*/
+
+:root {
+   --rainbow-red:red; 
+}
+
+.xbg-red {
+    background-color: var(--rainbow-red);
+}
+
+.xfg-red {
+    color: var(--rainbow-red);
+}
+
+.xbc-red {
+    border-color: var(--rainbow-red);
+}
